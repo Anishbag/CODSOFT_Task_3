@@ -1,2 +1,2 @@
-# CPDSOFT_Task_3
+# CoDSOFT_Task_3
 TIC-TAC-TOE GAME
